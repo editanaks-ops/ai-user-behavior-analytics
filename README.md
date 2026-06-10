@@ -25,10 +25,6 @@ Comprehensive behavioral analysis report for Innovatory Club, including psychoty
 
 ## Overview
 
-AI User Behavior Analytics is a case study...
-
-## Overview
-
 AI User Behavior Analytics is a case study based on an internship project focused on analyzing user behavior, psychotype identification, personalization, and sales support.
 
 The project explored how website interactions can be transformed into behavioral signals, personalized communication, and actionable insights for managers.
