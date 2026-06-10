@@ -1,5 +1,34 @@
 # AI User Behavior Analytics
 
+# AI User Behavior Analytics
+
+## About the Project
+
+### Goal
+Analyze website user behavior and identify behavioral patterns required for psychotype classification, personalization, and sales support.
+
+### Key Areas
+- User Behavior Analysis
+- Psychotype Segmentation
+- Customer Journey Mapping
+- Website Architecture Recommendations
+- Behavioral Tracking Design
+- Personalization Strategy
+
+### Tools and Methods
+- ChatGPT
+- Behavioral Analytics
+- UX Analysis
+- Customer Segmentation
+- Data-Track Architecture Design
+
+### Project Deliverable
+Comprehensive behavioral analysis report for Innovatory Club, including psychotype modeling, user journey recommendations, behavioral tracking structure, and website improvement strategy.
+
+## Overview
+
+AI User Behavior Analytics is a case study...
+
 ## Overview
 
 AI User Behavior Analytics is a case study based on an internship project focused on analyzing user behavior, psychotype identification, personalization, and sales support.
