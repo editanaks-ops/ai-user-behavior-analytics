@@ -1,7 +1,5 @@
 # AI User Behavior Analytics
 
-# AI User Behavior Analytics
-
 ## About the Project
 
 ### Goal
